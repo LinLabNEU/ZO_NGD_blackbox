@@ -11,8 +11,9 @@ First train models on MNIST and CIFAR:
 python train_models.py
 ```
 
-need to download the ImageNet dataset. 
-Obtain ImageNet model:
+need to download the ImageNet test dataset. 
+
+To obtain ImageNet model:
 ```
 python setup_inception.py
 ```
